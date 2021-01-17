@@ -1,8 +1,0 @@
-*{margin: 0; padding: 0}
-body{font-family: sans-serif;}
-a{text-decoration: none}
-nav{display: flex; background-color: lavender; justify-content: center}
-.nav-item{margin: 10px}
-.product-item{margin: 10px}
-.products{display: flex; justify-content: center}
-.btn-cart{padding: 5px; margin: 5px}
